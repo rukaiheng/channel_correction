@@ -13,7 +13,7 @@ public abstract class ActionInterface {
 	public static UI theUI = null;
 	public static Session theSession = null;
 	
-	//save the request and response
+	//save the request and response 
 	public static Request request = null;
 	public static Response response = null;
 	
